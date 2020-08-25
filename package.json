@@ -1,0 +1,32 @@
+{
+  "name": "slmportfolio",
+  "version": "1.0.0",
+  "description": "Sherri McMahon Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s8mcmahon/slmportfolio.git"
+  },
+  "author": "Sherri McMahon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s8mcmahon/slmportfolio/issues"
+  },
+  "homepage": "https://github.com/s8mcmahon/slmportfolio#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "prettier": "^2.0.5"
+  }
+}
