@@ -114,7 +114,6 @@ a:hover {
   vertical-align: middle;
 }
 
-/*--/ Sections /--*/
 .sect-4 {
   padding: 4rem 0;
 }
@@ -127,14 +126,12 @@ a:hover {
   margin-top: 4rem;
 }
 
-/*--/ Title s /--*/
 .title-s {
   font-weight: 600;
   color: #1e1e1e;
   font-size: 1.1rem;
 }
 
-/*--/ Title A /--*/
 .title-box {
   margin-bottom: 4rem;
 }
@@ -156,7 +153,6 @@ a:hover {
   margin: 0 auto;
 }
 
-/*--/ Title Left /--*/
 .title-box-2 {
   margin-bottom: 3rem;
 }
@@ -175,7 +171,6 @@ a:hover {
   bottom: -12px;
 }
 
-/*------/ Box /------*/
 .box-pl2 {
   padding-left: 2rem;
 }
@@ -195,7 +190,6 @@ a:hover {
   }
 }
 
-/*------/ Socials /------*/
 .socials {
   padding: 1.5rem 0;
 }
@@ -222,7 +216,6 @@ a:hover {
   transition: all 500ms ease;
 }
 
-/*------/ Ul resect /------*/
 .ul-resect,
 .socials ul,
 .list-ico,
@@ -244,7 +237,6 @@ a:hover {
   margin-right: 10px;
 }
 
-/*------/ Ico Circle /------*/
 .ico-circle {
   height: 100px;
   width: 100px;
@@ -257,7 +249,6 @@ a:hover {
   display: block;
 }
 
-/*--/ Scrolltop s /--*/
 .scrolltop-mf {
   position: relative;
   display: none;
@@ -282,7 +273,6 @@ a:hover {
   border-radius: 50%;
 }
 
-/*------/ Back to top button /------*/
 .back-to-top {
   position: fixed;
   display: none;
@@ -311,7 +301,6 @@ a:hover {
   }
 }
 
-/*------/ Prelaoder /------*/
 #preloader {
   position: fixed;
   top: 0;
@@ -355,7 +344,6 @@ a:hover {
   }
 }
 
-/*------/ Button /------*/
 .button {
   display: inline-block;
   padding: 0.3rem 0.6rem;
@@ -409,9 +397,6 @@ a:hover {
   background-color: white;
 }
 
-/*--------------------------------------------------------------
-# Nav Bar
---------------------------------------------------------------*/
 .navbar-b {
   transition: all 0.5s ease-in-out;
   background-color: transparent;
@@ -566,7 +551,6 @@ a:hover {
   background-color: #0078ff;
 }
 
-/*--/ Hamburger Navbar /--*/
 .navbar-toggler {
   position: relative;
 }
@@ -615,9 +599,6 @@ a:hover {
   opacity: 0.9;
 }
 
-/*--------------------------------------------------------------
-# Intro Section
---------------------------------------------------------------*/
 .intro {
   height: 100vh;
   position: relative;
@@ -703,9 +684,6 @@ a:hover {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
-# About
---------------------------------------------------------------*/
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
